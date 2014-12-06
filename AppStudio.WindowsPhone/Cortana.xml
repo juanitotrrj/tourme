@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">
+  <CommandSet xml:lang="en-US" Name = "englishCommands">
+    <CommandPrefix>TourMe</CommandPrefix>
+    <Example> to Makati </Example>
+
+    <Command Name  = "NaturalLanguageCommand">
+      <Example> to Makati </Example>
+      <ListenFor> to {naturalLanguage} </ListenFor>
+      <Feedback> Opening TourMe... </Feedback>
+      <Navigate Target = "MainPage.xaml" />
+    </Command>
+
+    <PhraseTopic Label = "naturalLanguage" Scenario = "Natural Language">
+      <Subject> ayala </Subject>
+      <Subject> triangle </Subject>
+      <Subject> greenbelt </Subject>
+      <Subject> washington </Subject>
+      <Subject> velasquez </Subject>
+      <Subject> legaspi </Subject>
+      <Subject> guadalupe </Subject>
+      <Subject> triangle </Subject>
+      <Subject> yuchengco </Subject>
+      <Subject> makati </Subject>
+      <Subject> manila </Subject>
+      <Subject> pasay </Subject>
+    
+    </PhraseTopic>
+
+
+  </CommandSet>
+</VoiceCommands>

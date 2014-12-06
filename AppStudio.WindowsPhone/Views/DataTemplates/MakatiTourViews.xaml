@@ -1,0 +1,25 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="using:AppStudio.Controls"
+    xmlns:html2xaml="using:AppStudio.Controls.Html2Xaml"
+    xmlns:commands="using:AppStudio.Commands">
+
+    <!-- MenuNoPhoto -->
+    <DataTemplate x:Key="MakatiTourList">
+        <ListView MinWidth="360"
+                     ItemsSource="{Binding Items}"  SelectionMode="None" IsSwipeEnabled="False" IsItemClickEnabled="True"  commands:ItemClickCommand.Command="{Binding ItemClickCommand}"
+                     ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                     ItemTemplate="{StaticResource MakatiTourItem}" HorizontalAlignment="Left">
+        </ListView>
+    </DataTemplate>
+  
+    <!-- MenuNoPhoto Item -->
+    <DataTemplate x:Key="MakatiTourItem">
+        <Grid Width="340" Height="50">
+            <TextBlock Margin="0, 10, 10, 0" Height="40" Text="{Binding Title}" Style="{StaticResource MenuItemText}" />
+        </Grid>
+    </DataTemplate>
+
+
+</ResourceDictionary>

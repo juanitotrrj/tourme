@@ -1,0 +1,52 @@
+{
+  "Items": [
+    {
+      "Type": "Url",
+      "Title": "Ayala Museum",
+      "Icon": "/Assets/DataImages/menuitem-icon.png",
+       "Target": "directions://v2.0/route/destination/?latlon=14.55355,121.0255511,17&title=AyalaMuseum"
+    },
+    {
+      "Type": "Url",
+      "Title": "Ayala Triangle",
+      "Icon": "/Assets/DataImages/menuitem-icon.png",
+      "Target": "directions://v2.0/route/destination/?latlon=14.5563999,121.0270811,17&title=AyalaTriangleGardens"
+    },
+    {
+      "Type": "Url",
+      "Title": "Greenbelt Park",
+      "Icon": "/Assets/DataImages/menuitem-icon.png",
+      "Target": "directions://v2.0/route/destination/?latlon=14.55301,121.0247411,17&title=GreenbeltPark"
+    },
+    {
+      "Type": "Url",
+      "Title": "Washington Sycip Park",
+      "Icon": "/Assets/DataImages/menuitem-icon.png",
+      "Target": "directions://v2.0/route/destination/?latlon=14.55347,121.0195511,17&title=WashingtonSycipPark"
+    },
+    {
+      "Type": "Url",
+      "Title": "Jaime C Velasquez Park",
+      "Icon": "/Assets/DataImages/menuitem-icon.png",
+      "Target": "directions://v2.0/route/destination/?latlon=14.55998,121.0246211,17&title=JaimeCVelasquezPark"
+    },
+    {
+      "Type": "Url",
+      "Title": "Legazpi Active Park",
+      "Icon": "/Assets/DataImages/menuitem-icon.png",
+      "Target": "directions://v2.0/route/destination/?latlon=14.55411,121.0191611,17&title=LegazpiActivePark"
+    },
+    {
+      "Type": "Url",
+      "Title": "Guadalupe Church",
+      "Icon": "/Assets/DataImages/menuitem-icon.png",
+      "Target": "directions://v2.0/route/destination/?latlon=14.56567,121.0452011,17&title=GuadalupeChurch"
+    },
+    {
+      "Type": "Url",
+      "Title": "Yuchengco Museum",
+      "Icon": "/Assets/DataImages/menuitem-icon.png",
+      "Target": "directions://v2.0/route/destination/?latlon=14.56133,121.0181211,17&title=YuchengcoMuseum"
+    }
+  ]
+}
