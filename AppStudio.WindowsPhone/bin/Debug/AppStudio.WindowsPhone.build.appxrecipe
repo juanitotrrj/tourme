@@ -7,16 +7,16 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>eadf97d1-edf8-40d1-ae1f-43d0cb836343</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\bin\Debug\AppStudio.exe">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\bin\Debug\AppStudio.exe">
       <PackagePath>AppStudio.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
@@ -25,121 +25,121 @@
     <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
       <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\Lib\AppStudio.Common.dll">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\Lib\AppStudio.Common.dll">
       <PackagePath>AppStudio.Common.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.Data\bin\Debug\AppStudio.Data.dll">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.Data\bin\Debug\AppStudio.Data.dll">
       <PackagePath>AppStudio.Data.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\packages\HtmlAgilityPack.1.4.9\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch\HtmlAgilityPack.dll">
       <PackagePath>HtmlAgilityPack.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\packages\Newtonsoft.Json.6.0.5\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\packages\PCLStorage.0.9.6\lib\portable-win8+wpa81\PCLStorage.Abstractions.dll">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\packages\PCLStorage.0.9.6\lib\portable-win8+wpa81\PCLStorage.Abstractions.dll">
       <PackagePath>PCLStorage.Abstractions.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\packages\PCLStorage.0.9.6\lib\portable-win8+wpa81\PCLStorage.dll">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\packages\PCLStorage.0.9.6\lib\portable-win8+wpa81\PCLStorage.dll">
       <PackagePath>PCLStorage.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\AppBar\GoToSource.png">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\AppBar\GoToSource.png">
       <PackagePath>Assets\AppBar\GoToSource.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\AppBar\PinToStart.png">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\AppBar\PinToStart.png">
       <PackagePath>Assets\AppBar\PinToStart.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\AppBar\Refresh.png">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\AppBar\Refresh.png">
       <PackagePath>Assets\AppBar\Refresh.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\AppBar\TextToSpeech.png">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\AppBar\TextToSpeech.png">
       <PackagePath>Assets\AppBar\TextToSpeech.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\BadgeLogo.png">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\BadgeLogo.png">
       <PackagePath>Assets\BadgeLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\ApplicationLogo.png">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\ApplicationLogo.png">
       <PackagePath>Assets\ApplicationLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\SmallLogo.png">
-      <PackagePath>Assets\SmallLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\Logo.png">
-      <PackagePath>Assets\Logo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\Square71x71Logo.png">
-      <PackagePath>Assets\Square71x71Logo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\WideLogo.png">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\WideLogo.png">
       <PackagePath>Assets\WideLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.Shared\Assets\ErrorImage.png">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.Shared\Assets\ErrorImage.png">
       <PackagePath>Assets\ErrorImage.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.Shared\Assets\DataImages\menuitem-icon.png">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.Shared\Assets\DataImages\menuitem-icon.png">
       <PackagePath>Assets\DataImages\menuitem-icon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Cortana.xml">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Cortana.xml">
       <PackagePath>Cortana.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Views\DataTemplates\MakatiTourViews.xaml">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Views\DataTemplates\MakatiTourViews.xaml">
       <PackagePath>Views\DataTemplates\MakatiTourViews.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Views\DataTemplates\ManilaTourViews.xaml">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Views\DataTemplates\ManilaTourViews.xaml">
       <PackagePath>Views\DataTemplates\ManilaTourViews.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Views\DataTemplates\PasayTourViews.xaml">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Views\DataTemplates\PasayTourViews.xaml">
       <PackagePath>Views\DataTemplates\PasayTourViews.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\Assets\SplashScreen.scale-240.jpg">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\Assets\SplashScreen.scale-240.jpg">
       <PackagePath>Assets\SplashScreen.scale-240.jpg</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.Shared\Assets\DataImages\FlipSquareTile.jpg">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.Shared\Assets\DataImages\FlipSquareTile.jpg">
       <PackagePath>Assets\DataImages\FlipSquareTile.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.Shared\Assets\DataImages\FlipWideTile.jpg">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.Shared\Assets\DataImages\FlipWideTile.jpg">
       <PackagePath>Assets\DataImages\FlipWideTile.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.Shared\Assets\Data\MakatiTourDataSource.json">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.Shared\Assets\Data\MakatiTourDataSource.json">
       <PackagePath>Assets\Data\MakatiTourDataSource.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.Shared\Assets\Data\ManilaTourDataSource.json">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.Shared\Assets\Data\ManilaTourDataSource.json">
       <PackagePath>Assets\Data\ManilaTourDataSource.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.Shared\Assets\Data\PasayTourDataSource.json">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.Shared\Assets\Data\PasayTourDataSource.json">
       <PackagePath>Assets\Data\PasayTourDataSource.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\bin\Debug\Views\ImageViewer.xbf">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\bin\Debug\Views\ImageViewer.xbf">
       <PackagePath>Views\ImageViewer.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\bin\Debug\Views\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\bin\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\bin\Debug\Styles\ControlStyles.xbf">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\bin\Debug\Styles\ControlStyles.xbf">
       <PackagePath>Styles\ControlStyles.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\bin\Debug\Styles\ButtonStyles.xbf">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\bin\Debug\Styles\ButtonStyles.xbf">
       <PackagePath>Styles\ButtonStyles.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\bin\Debug\Styles\AppStyles.xbf">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\bin\Debug\Styles\AppStyles.xbf">
       <PackagePath>Styles\AppStyles.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\bin\Debug\AppStudio.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\bin\Debug\AppStudio.xr.xml">
       <PackagePath>AppStudio.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\App\AppStudio.WindowsPhone\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Wilson\Downloads\TourMe\AppStudio.WindowsPhone\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

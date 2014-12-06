@@ -4,7 +4,7 @@
       "Type": "Url",
       "Title": "Ayala Museum",
       "Icon": "/Assets/DataImages/menuitem-icon.png",
-       "Target": "directions://v2.0/route/destination/?latlon=14.55355,121.0255511,17&title=AyalaMuseum"
+      "Target": "directions://v2.0/route/destination/?latlon=14.55355,121.0255511,17&title=AyalaMuseum"
     },
     {
       "Type": "Url",

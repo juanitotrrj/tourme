@@ -8,6 +8,8 @@ using Windows.UI.Xaml.Navigation;
 using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.ApplicationModel.Background;
+using Windows.Devices.Geolocation;
+
 
 using AppStudio.Views;
 using AppStudio.Services;

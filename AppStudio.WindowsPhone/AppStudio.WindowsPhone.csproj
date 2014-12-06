@@ -91,6 +91,10 @@
     <Content Include="Assets\AppBar\Refresh.png" />
     <Content Include="Assets\AppBar\TextToSpeech.png" />
     <Content Include="Assets\BadgeLogo.png" />
+    <Content Include="Assets\Logo.scale-100.png" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
+    <Content Include="Assets\Square71x71Logo.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
     <Content Include="Cortana.xml" />
     <Content Include="Views\DataTemplates\MakatiTourViews.xaml" />
     <Content Include="Views\DataTemplates\ManilaTourViews.xaml" />
@@ -99,11 +103,7 @@
   <ItemGroup>
     <Content Include="Assets\SplashScreen.scale-240.jpg" />
     <Content Include="Assets\ApplicationLogo.png" />
-    <Content Include="Assets\SmallLogo.png" />
-    <Content Include="Assets\Logo.png" />
-    <Content Include="Assets\Square71x71Logo.png" />
     <Content Include="Assets\WideLogo.png" />
-    <Content Include="Assets\StoreLogo.png" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />

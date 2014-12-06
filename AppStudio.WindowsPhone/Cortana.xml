@@ -13,15 +13,14 @@
     </Command>
 
     <PhraseTopic Label = "naturalLanguage" Scenario = "Natural Language">
-      <Subject> ayala </Subject>
-      <Subject> triangle </Subject>
-      <Subject> greenbelt </Subject>
-      <Subject> washington </Subject>
-      <Subject> velasquez </Subject>
-      <Subject> legaspi </Subject>
-      <Subject> guadalupe </Subject>
-      <Subject> triangle </Subject>
-      <Subject> yuchengco </Subject>
+      <Subject> ayala museum</Subject>
+      <Subject> ayala triangle </Subject>
+      <Subject> greenbelt park</Subject>
+      <Subject> washington sycip park</Subject>
+      <Subject> jaime velasquez park</Subject>
+      <Subject> legaspi active park</Subject>
+      <Subject> guadalupe church</Subject>
+      <Subject> yuchengco museum</Subject>
       <Subject> makati </Subject>
       <Subject> manila </Subject>
       <Subject> pasay </Subject>
